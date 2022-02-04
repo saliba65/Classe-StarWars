@@ -14,3 +14,5 @@ registro.
 A entrada padrão é composta por várias linhas e cada uma contém uma string indicando o
 arquivo a ser lido. A última linha da entrada contém a palavra FIM. A saída padrão também
 contém várias linhas, uma para cada registro contido em uma linha da entrada padrão.
+
+<img src="https://static.wixstatic.com/media/20d8b4_3e2e1bcc22394b7eaf401e108488be79~mv2.jpg/v1/fill/w_560,h_393,al_c,lg_1,q_90/20d8b4_3e2e1bcc22394b7eaf401e108488be79~mv2.webp"/>
